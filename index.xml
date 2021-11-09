@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masters&#39; Thesis</title>
+    <link>https://sarxell.github.io/Thesis.github.io/</link>
+    <description>Recent content on Masters&#39; Thesis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Nov 2021 12:18:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://sarxell.github.io/Thesis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week1</title>
+      <link>https://sarxell.github.io/Thesis.github.io/post/week1/</link>
+      <pubDate>Mon, 08 Nov 2021 12:18:16 +0000</pubDate>
+      
+      <guid>https://sarxell.github.io/Thesis.github.io/post/week1/</guid>
+      <description>For the first task in this project, I was asked to organize the ATLASCAR2 cables. The objective of this task was to understand the electric connections of the car, which were very mangled and hard to decipher.
+Here&amp;rsquo;s a picture to exemplify the state of the car:
+ add atlascar picture here  </description>
+    </item>
+    
+  </channel>
+</rss>
