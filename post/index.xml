@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Masters&#39; Thesis</title>
+    <title>Posts on Masters&#39; thesis</title>
     <link>https://sarxell.github.io/Thesis.github.io/post/</link>
-    <description>Recent content in Posts on Masters&#39; Thesis</description>
+    <description>Recent content in Posts on Masters&#39; thesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Nov 2021 12:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 13:57:20 +0000</lastBuildDate>
     
 	<atom:link href="https://sarxell.github.io/Thesis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week2</title>
+      <link>https://sarxell.github.io/Thesis.github.io/post/week2/</link>
+      <pubDate>Wed, 17 Nov 2021 13:57:20 +0000</pubDate>
+      
+      <guid>https://sarxell.github.io/Thesis.github.io/post/week2/</guid>
+      <description>This week I tested the Sick LIDAR that are placed in the front of the car. To accomplish that I used the software &amp;ldquo;SOPAS engineering tool&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Week1</title>
