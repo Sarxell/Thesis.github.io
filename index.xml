@@ -6,10 +6,20 @@
     <description>Recent content on My thesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 13:57:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 10:15:59 +0000</lastBuildDate>
     
 	<atom:link href="https://sarxell.github.io/Thesis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week3-Week6</title>
+      <link>https://sarxell.github.io/Thesis.github.io/post/week3/</link>
+      <pubDate>Tue, 30 Nov 2021 10:15:59 +0000</pubDate>
+      
+      <guid>https://sarxell.github.io/Thesis.github.io/post/week3/</guid>
+      <description>These past weeks I focused in learning ROS. In short, ROS (Robot Operating System) is a software to help developers create robot applications. So learning it is a very important step because ROS is the base of this thesis
+For now I learned about messages, services, parameters and how to use ROS for my advantage.</description>
+    </item>
     
     <item>
       <title>Week2</title>
