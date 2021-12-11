@@ -6,10 +6,20 @@
     <description>Recent content in Posts on My thesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Nov 2021 10:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Dec 2021 17:56:41 +0000</lastBuildDate>
     
 	<atom:link href="https://sarxell.github.io/Thesis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week7</title>
+      <link>https://sarxell.github.io/Thesis.github.io/post/week7/</link>
+      <pubDate>Sat, 11 Dec 2021 17:56:41 +0000</pubDate>
+      
+      <guid>https://sarxell.github.io/Thesis.github.io/post/week7/</guid>
+      <description>This week I learned to see the sensors_msg in rviz, like LaserScan, images, PointCloud and markers. With this step I can start testing the sensors of the ATLASCAR2 next week.
+I&amp;rsquo;m also almost done with the Readme file to turn on everything in the car.</description>
+    </item>
     
     <item>
       <title>Week3-Week6</title>
