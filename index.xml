@@ -6,10 +6,21 @@
     <description>Recent content on My thesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Dec 2021 21:53:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 23:23:14 +0000</lastBuildDate>
     
 	<atom:link href="https://sarxell.github.io/Thesis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Week9-Week14</title>
+      <link>https://sarxell.github.io/Thesis.github.io/post/week14/</link>
+      <pubDate>Tue, 18 Jan 2022 23:23:14 +0000</pubDate>
+      
+      <guid>https://sarxell.github.io/Thesis.github.io/post/week14/</guid>
+      <description>In these past few weeks I started doing the state of the art, I also created the index for the thesis and a table to summarize the type of sensors most of autonomous vehicles usually have.
+In the other hand, I tested the cameras in rviz that had a little problem based on the pc using the ubuntu 20.04.
+I&amp;rsquo;m trying to create a Gantt Chart to organize my days based on what I need to do.</description>
+    </item>
     
     <item>
       <title>Week8</title>
@@ -19,7 +30,7 @@
       <guid>https://sarxell.github.io/Thesis.github.io/post/week8/</guid>
       <description>This time I started testing the sensors :
  Sick LMS151 LIDAR Point grey Flea2 camera Sick LD MRS LIDAR  Starting with the first in the list:
-I had some difficulties in testing this sensor because I changed the IP address of the LIDAR when testing it with the SOPAS enginnering tool in Windows so I needed to change it back. After that it was only needed to create a static IP address in the range of the IP of the LIDAR and run the roslaunch file.</description>
+I had some difficulties in testing this sensor because I changed the IP address of the LIDAR when testing it with the SOPAS enginnering tool in Windows, so I needed to change it back. After that it was only needed to create a static IP address in the range of the IP of the LIDAR and run the roslaunch file.</description>
     </item>
     
     <item>
